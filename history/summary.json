@@ -4,17 +4,19 @@
     "url": "https://larrychen.tech",
     "icon": "https://favicons.githubusercontent.com/larrychen.tech",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1676,
-    "timeDay": 2412,
+    "timeDay": 632,
     "timeWeek": 1676,
     "timeMonth": 1676,
     "timeYear": 1676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
