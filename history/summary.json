@@ -4,19 +4,19 @@
     "url": "https://larrychen.tech",
     "icon": "https://favicons.githubusercontent.com/larrychen.tech",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1377,
-    "timeDay": 676,
-    "timeWeek": 1513,
-    "timeMonth": 1377,
-    "timeYear": 1377,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 1314,
+    "timeDay": 645,
+    "timeWeek": 1423,
+    "timeMonth": 1314,
+    "timeYear": 1314,
     "dailyMinutesDown": {
-      "2022-09-02": 0
+      "2022-09-02": 44
     }
   }
 ]
