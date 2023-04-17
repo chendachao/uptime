@@ -4,7 +4,7 @@
     "url": "https://larrychen.tech",
     "icon": "https://icons.duckduckgo.com/ip3/larrychen.tech.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "89.34%",
     "uptimeDay": "65.51%",
     "uptimeWeek": "76.39%",
@@ -12,7 +12,7 @@
     "uptimeYear": "89.34%",
     "time": 3151,
     "timeDay": 7731,
-    "timeWeek": 5274,
+    "timeWeek": 5293,
     "timeMonth": 4728,
     "timeYear": 3151,
     "dailyMinutesDown": {
