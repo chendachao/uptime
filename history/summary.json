@@ -4,12 +4,12 @@
     "url": "https://larrychen.tech",
     "icon": "https://icons.duckduckgo.com/ip3/larrychen.tech.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "56.54%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "56.64%",
     "uptimeWeek": "75.92%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "99.14%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "99.16%",
     "time": 4309,
     "timeDay": 3814,
     "timeWeek": 6038,
@@ -25,7 +25,7 @@
       "2023-05-14": 475,
       "2023-05-13": 218,
       "2023-05-12": 491,
-      "2023-05-11": 278
+      "2023-05-11": 212
     }
   }
 ]
